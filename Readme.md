@@ -1,9 +1,9 @@
-# SphinxQL
+# LLM4SQL
 
-SphinxQL is a project aimed at integrating LLMs with SQL databases. The project is in its very early stages and we are actively seeking contributors to help us build and improve it.
+LLM4SQL is a project aimed at integrating LLMs with SQL databases. The project is in its very early stages and we are actively seeking contributors to help us build and improve it.
 
 
-The main goal of SphinxQL is to use the power of AI to assist with SQL database management and querying. We use the `sqlcoder` model from hugginface generate SQL queries based on natural language prompts. This is done with the help of Ollama, which serves as the AI backend.
+The main goal of LLM4SQL is to use the power of AI to assist with SQL database management and querying. We use the `sqlcoder` model from hugginface generate SQL queries based on natural language prompts. This is done with the help of Ollama, which serves as the AI backend.
 
 > I'm crafting more standardised readme file which will include more info about the model
 
@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Issues
 
-If you encounter any issues or have any questions, please [open an issue](https://github.com/gd03champ/SphinxQL/issues) on the GitHub repository.
+If you encounter any issues or have any questions, please [open an issue](https://github.com/gd03champ/LLM4SQL/issues) on the GitHub repository.
 
 ## Contact
 
@@ -101,7 +101,7 @@ We would like to thank the following contributors for their valuable contributio
 
 ## Roadmap
 
-Our future plans for SphinxQL include:
+Our future plans for LLM4SQL include:
 
 - Enhancing the AI query generation capabilities
 - Adding support for additional database systems
@@ -109,4 +109,4 @@ Our future plans for SphinxQL include:
 - Implementing automatic error analysis and re-prompting
 - Developing advanced analytics and data visualization features
 
-We appreciate your interest in SphinxQL and look forward to your contributions!
+We appreciate your interest in LLM4SQL and look forward to your contributions!
