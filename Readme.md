@@ -1,9 +1,9 @@
 # SphinxQL
 
-SQLLama is a project aimed at integrating LLMs with SQL databases. The project is in its very early stages and we are actively seeking contributors to help us build and improve it.
+SphinxQL is a project aimed at integrating LLMs with SQL databases. The project is in its very early stages and we are actively seeking contributors to help us build and improve it.
 
 
-The main goal of SQLLama is to use the power of AI to assist with SQL database management and querying. We use the `sqlcoder` model from hugginface generate SQL queries based on natural language prompts. This is done with the help of Ollama, which serves as the AI backend.
+The main goal of SphinxQL is to use the power of AI to assist with SQL database management and querying. We use the `sqlcoder` model from hugginface generate SQL queries based on natural language prompts. This is done with the help of Ollama, which serves as the AI backend.
 
 > I'm crafting more standardised readme file which will include more info about the model
 
@@ -25,6 +25,8 @@ Sketching...
 - [ ] Move all environmental variables to .env
 - [ ] Deep integration of LLMS with database
 - [ ] Automatic error analysis and re-prompting
+
+- [ ] Compile frontend and backend into standalone electron project
 
 
 ## Running the Project
@@ -107,4 +109,4 @@ Our future plans for SphinxQL include:
 - Implementing automatic error analysis and re-prompting
 - Developing advanced analytics and data visualization features
 
-We appreciate your interest in SQLLama and look forward to your contributions!
+We appreciate your interest in SphinxQL and look forward to your contributions!
