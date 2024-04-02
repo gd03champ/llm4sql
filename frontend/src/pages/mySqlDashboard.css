@@ -1,0 +1,9 @@
+/* Add styling for the text elements */
+.text {
+    /* Add your text styles here */
+    /* BEGIN: Text Styles */
+    color: #fff; /* Update the color value to a contrasting color */
+    font-size: 16px;
+    font-weight: bold;
+    /* END: Text Styles */
+}
